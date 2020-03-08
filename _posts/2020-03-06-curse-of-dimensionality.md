@@ -61,7 +61,7 @@ $$P_n = \dfrac{ \text{MAX-DIST}_n - \text{MIN-DIST}_n}{\text{MIN-DIST}_n}$$
 [Mehmed Kantardzic. 2003. Principles of Measurement Systems. 2nd ed., 36-38. Wiley-IEEE Press](https://books.google.com.tw/books?id=ivm4DwAAQBAJ&pg=PA36)
 
 ### 後記
-韓家煒、Micheline Kamber、裴健合著的Jiawei H., Micheline K., Jian P. 1991. Data Mining: Concepts and Techniques
+Jiawei H(韓家煒)、Micheline Kamber、Jian P(裴健)合著的Jiawei H., Micheline K., Jian P. 1991. Data Mining: Concepts and Techniques
 3rd ed. 有關維度詛咒的地方寫得不好，完全沒有點出精髓。
 
 ### 原文
