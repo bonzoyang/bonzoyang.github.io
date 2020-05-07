@@ -4,9 +4,9 @@ image:
   path: /assets/images/bio-banner.png
 ---
 
-Hello, I am a Data Analyst and Data Scientist. I used to be a senior engineer in the top 10 IC design house in the world, an assistant manager of the investment research of a private investment consulting company. I work on machine learning, artificial intelligence for industrial analysis and helping customers to explore business value. I am also giving lectures in the program camp of NTU(台灣大學) EE of my spare time.
+Hello, I am a Data Analyst and Data Scientist. I used to be a senior engineer of the top 10 IC design house in the world, an assistant manager of the investment research of a private investment consulting company. I work on machine learning, artificial intelligence for industrial analysis and helping customers to explore business value. I am also giving lectures in the program camp of NTU(台灣大學) EE of my spare time.
 
-My expertise is digital circuit design, digital circuit integration, machine learning and artificial intelligence. Also I am good ad industrial analysis.
+My expertise is digital circuit design, digital circuit integration, machine learning and artificial intelligence. Also I am good at industrial analysis.
 
 # Education
 National Chiao Tung University(國立交通大學), Taiwan. Bachelor of CS.
